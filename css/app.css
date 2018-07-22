@@ -11,6 +11,9 @@ header {
   color:#fcf064;
   font-size: 3em;
 }
+header h2{
+  color:hotpink;
+}
 
 footer {
   background-color:  black;
