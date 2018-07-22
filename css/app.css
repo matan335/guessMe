@@ -11,11 +11,18 @@ header {
   color:#fcf064;
   font-size: 3em;
 }
+
+header h2{
+  color:hotpink;
+}
+
+
 .googo {
   background-color: #fcf064;
   text-align: center;
   
 }
+
 footer {
   background-color:  black;
   text-align: center;
